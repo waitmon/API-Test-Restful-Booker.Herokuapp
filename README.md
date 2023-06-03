@@ -5,7 +5,10 @@ Apidoc can be found at https://restful-booker.herokuapp.com/apidoc/index.html
 
 ## Introduction
 
-This repository contains sets of API tests realized by OOP method.
+This repository contains sets of API smoke tests realized by OOP method.
+Test documentation for manual testing (check-lists, bug-reports) can be found in test_documentation.xlsx file.
+
+
 
 The following tests have been implemented:
 
@@ -15,7 +18,7 @@ The following tests have been implemented:
 
 - Generating of authentication token
 
-- Getting ids of available bookings upon various filters data provied (specified id, firstname & lastname, checkin & checkout)
+- Getting ids of available bookings upon various filters data provided (specified id, firstname & lastname, checkin & checkout)
 
 - Creating new booking
 
